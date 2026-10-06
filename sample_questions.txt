@@ -1,0 +1,15 @@
+1. What concepts did Alan Turing introduce in 1950?
+2. Where and when did the formal birth of the artificial intelligence discipline take place?
+3. What did pioneers optimistically seek to automate at the Dartmouth Conference?
+4. On what did researchers focus primarily during the early decades from the late 1950s through the early 1970s?
+5. What tasks did early programs successfully solve and play during the early decades?
+6. What event led to the first "AI winter" during the late 1970s and early 1980s?
+7. With the commercial rise of what systems did the field experience a resurgence in the 1980s?
+8. How are expert systems defined in the text?
+9. What issues with massive rule sets triggered a second "AI winter" in the 1990s?
+10. What milestone achievement occurred in 1997 despite the slowdown in public hype?
+11. What three factors unlocked the modern era of artificial intelligence in the 2000s and 2010s?
+12. Through what hardware was enhanced computing power achieved during the modern era's emergence?
+13. What breakthroughs contributed to the convergence of the modern era alongside big data and GPUs?
+14. With the introduction of which architectures and models did AI evolution accelerate dramatically?
+15. What global discussions were sparked as AI moved into mainstream generative capabilities?
